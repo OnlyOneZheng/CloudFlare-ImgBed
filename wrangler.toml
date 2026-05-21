@@ -4,7 +4,7 @@ pages_build_output_dir = "./frontend-dist"
 
 # 绑定kv
 [[kv_namespaces]]
-binding = "resources"
+binding = "img_url"
 id = "8c65f974dc62484c8c47f4c2fadf0ec5"
 
 # R2 绑定
